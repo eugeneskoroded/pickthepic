@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-jm2gc)fz!ni1at(#@%ka+2hm=y9#aq)wxk640he-*+%$zf5)(@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pickthepic.herokuapp.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
